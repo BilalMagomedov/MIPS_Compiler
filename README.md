@@ -1,4 +1,4 @@
-## MIPS Assembly Compiler README
+## MIPS Assembly Compiler
 
 ### Overview
 
@@ -56,6 +56,7 @@ ADDRESS         CODE
 ### Screenshots
 
 ![image](https://github.com/BilalMagomedov/MIPS_Compiler/assets/53838499/e3bb98a2-33a0-4fed-a9ef-6bbe5facbad2)
+
 ![image](https://github.com/BilalMagomedov/MIPS_Compiler/assets/53838499/ef1eedad-2ebc-4267-a4e5-77d3529c0014)
 
 ### Author
