@@ -30,7 +30,7 @@ xl:     sll     $17, $18, 4
 ### Output File Example (output.obj)
 
 ```
-ADDRESS	    CODE
+ADDRESS         CODE
 0x00400000	0x01975820
 0x00400004	0x20e8fb2e
 0x00400008	0x30e3007f
@@ -52,6 +52,11 @@ ADDRESS	    CODE
 - Ensure the input file follows the MIPS assembly language syntax.
 - The program supports R, J, and I-type instructions.
 - Extra spaces and line comments within instructions are handled.
+
+### Screenshots
+
+![image](https://github.com/BilalMagomedov/MIPS_Compiler/assets/53838499/e3bb98a2-33a0-4fed-a9ef-6bbe5facbad2)
+![image](https://github.com/BilalMagomedov/MIPS_Compiler/assets/53838499/ef1eedad-2ebc-4267-a4e5-77d3529c0014)
 
 ### Author
 
